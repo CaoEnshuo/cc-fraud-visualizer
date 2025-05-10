@@ -1,1 +1,1 @@
-define({ availableImg: ["Beck2016Visual"]});
+define({ availableImg: ["Alfaiz2022Enhanced","Bakhtiari2023EnsembleData","Carcillo2019HybridLearning","DalPozzolo2018Realistic","Ganji2023SSPO","Khalid2024Ensemble","Kim2019Champion","Rtayli2020SVMRFE","Singh2022CSWLB","Voican2021Deep"]});

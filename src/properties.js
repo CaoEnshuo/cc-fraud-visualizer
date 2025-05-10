@@ -2,7 +2,7 @@
  * Name as used as title for the main page
  * @type {string}
  */
-var title = 'SurVis Literature Collection';
+var title = 'FraudLit: Visualizing Key Papers in Credit Card Fraud Detection';
 
 /**
  * Relative path to the data directory
@@ -36,10 +36,6 @@ var tagCloudOptions = [{
 }, {
     field: 'author',
     title: 'Authors',
-    minTagFrequency: 1
-}, {
-    field: 'series',
-    title: 'Series',
     minTagFrequency: 1
 }];
 
